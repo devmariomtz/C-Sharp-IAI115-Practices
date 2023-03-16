@@ -3,11 +3,11 @@ Solution of the exercises proposed in the IAI115 (Introduction to computer scien
 >**IDE used:**
 *SharpDevelop*
 <br>**IDE version:**
-*4.4.1*
+*5.1.0*
 <br>**Programming language:**
 *C#*
 <br>**.NET version:**
-*4.0.30319*
+*4.8.04084*
 ## Topics covered
 - [Writing, Compiling and Executing Programs]()
 - [Sequential Control Structures]()
@@ -19,4 +19,4 @@ Solution of the exercises proposed in the IAI115 (Introduction to computer scien
 - Static Data Structures: Arrays
 - Static Data Structures: Two-Dimensional Arrays
 - Character Strings and Structs
-- Text File Management
+- [Text File Management]()
